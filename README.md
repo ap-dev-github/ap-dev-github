@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey !</h1>
 <h3 align="center">Computer Science Engineering Student | Developer | Graduating in 2026</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap-dev-github" alt="ap-dev-github" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
