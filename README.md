@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey !</h1>
 <h3 align="center">Computer Science Engineering Student | Developer | Graduating in 2026</h3>
 
-
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+I'm a computer science enthusiast with a passion for problem-solving, coding, and building a strong, 
+resilient mindset both in tech and in life. 🚀💪
 
 - 👨‍💻 All of my projects are available at [https://ap-dev-github.github.io/my_portfolio/](https://ap-dev-github.github.io/my_portfolio/)
 
