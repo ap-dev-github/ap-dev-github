@@ -8,7 +8,6 @@
 <body>
     <header>
         <h1>Ayush Pandey</h1>
-        <p>📞 <a href="tel:+917905581991">+91 79055 81991</a></p>
         <p>Email: <a href="mailto:ayushpandey.cs@gmail.com">ayushpandey.cs@gmail.com</a></p>
         <p><a href="https://github.com/ayush-pandey">GitHub</a> | <a href="https://www.linkedin.com/in/ayush-pandey">LinkedIn</a></p>
     </header>
