@@ -48,7 +48,7 @@
         <li>Received recognition during "The Return Journey" startup ideation phase.</li>
     </ul>
     <h3>Company Budget Allocation Application</h3>
-    <p><a href="">Website</a> | <a href="">Repository</a></p>
+    <p><a href="https://ap-dev-github.github.io/project-budget-allocation/">Website</a> | <a href="https://github.com/ap-dev-github/project-budget-allocation">Repository</a></p>
     <ul>
         <li>Built a dynamic budget allocation tool using React and Redux for state management.</li>
         <li>Enabled startups to distribute funds efficiently across departments.</li>
