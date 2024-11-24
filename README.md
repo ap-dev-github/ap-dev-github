@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ayush Pandey's GitHub Profile</title>
+   
 </head>
 <body>
     <header>
         <h1>Ayush Pandey</h1>
-        <p>Backend Developer | Computer Science Student</p>
+        <p>Computer Science Student</p>
         <p>📞 <a href="tel:+917905581991">+91 79055 81991</a></p>
         <p>Email: <a href="mailto:ayushpandey.cs@gmail.com">ayushpandey.cs@gmail.com</a></p>
         <p><a href="https://github.com/ayush-pandey">GitHub</a> | <a href="https://www.linkedin.com/in/ayush-pandey">LinkedIn</a></p>
