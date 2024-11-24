@@ -13,7 +13,6 @@
     </header>
      <p><strong>BTech in Computer Science Engineering</strong><br>
     VIT-AP University, Amravati, Andhra Pradesh<br>
-    CGPA: 8.47 (Up to 5th Semester)<br>
     2022 - Present</p>
      <h2>Professional Summary</h2>
     <p>Highly motivated and detail-oriented Computer Science student with strong backend development expertise. Skilled in Python, Django, Flask, and RESTful API design. Proven ability to solve complex technical problems, with demonstrated success in national-level hackathons. Passionate about developing scalable, secure solutions and contributing to cutting-edge projects in backend engineering.</p>   
