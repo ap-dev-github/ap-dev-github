@@ -40,7 +40,7 @@
     </ul>   
     <h2>Projects</h2>
     <h3>Atithidev Couch Surfing Hosts Community Website</h3>
-    <p><a href="https://yourwebsite.link">Website</a> | <a href="https://github.com/yourrepo">Repository</a> | <a href="https://link-to-architecture.com">Architecture</a></p>
+    <p><a href="https://atithidev-main-v1-0-0.onrender.com/">Website</a> | <a href="https://github.com/ap-dev-github/atithidev-website">Repository</a> | <a href="https://drive.google.com/file/d/1tV4RXWq1vB-LDEfhvuUeOWHmCJS06uJ8/view?usp=sharing">Architecture</a></p>
     <ul>
         <li>Developed a microservices-based platform with emotion detection and CRUD APIs.</li>
         <li>Leveraged Django for secure and scalable backend services and React.js for dynamic user interfaces.</li>
@@ -48,19 +48,19 @@
         <li>Received recognition during "The Return Journey" startup ideation phase.</li>
     </ul>
     <h3>Company Budget Allocation Application</h3>
-    <p><a href="https://yourwebsite.link">Website</a> | <a href="https://github.com/yourrepo">Repository</a></p>
+    <p><a href="">Website</a> | <a href="">Repository</a></p>
     <ul>
         <li>Built a dynamic budget allocation tool using React and Redux for state management.</li>
         <li>Enabled startups to distribute funds efficiently across departments.</li>
     </ul>
     <h2>Certifications</h2>
     <ul>
-        <li><a href="https://www.awsacademy.com">AWS Academy Graduate – Cloud Architecting</a></li>
-        <li><a href="https://www.awsacademy.com">AWS Academy Graduate – Cloud Foundations</a></li>
-        <li><a href="https://www.ibm.com/certifications">IBM Full Stack Software Developer Professional Certification</a></li>
-        <li><a href="https://www.cisco.com/certifications">CISCO Networking Essentials</a></li>
-        <li><a href="https://www.coursera.org">C for Everyone: Programming Fundamentals (Coursera)</a></li>
-        <li><a href="https://www.coursera.org">Professional Certification in Java Programming</a></li>
+        <li><a href="https://www.credly.com/badges/27f53030-14c5-40f7-a572-34493edb16fc/public_url">AWS Academy Graduate – Cloud Architecting</a></li>
+        <li><a href="https://www.credly.com/badges/7471dcbb-4ec1-412b-85cc-718085a666f8/public_url">AWS Academy Graduate – Cloud Foundations</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/professional-cert/ASWN32VZ2EUU">IBM Full Stack Software Developer Professional Certification</a></li>
+        <li><a href="https://drive.google.com/file/d/1VKznuMxsy_IqtBD0LcY5ysGZC-FUGd1J/view">CISCO Networking Essentials</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/certificate/W69C4H82Z9JR">C for Everyone: Programming Fundamentals (Coursera)</a></li>
+        <li><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7935c29f-7917-48db-a847-662c337dbbf5.pdf">Professional Certification in Java Programming</a></li>
     </ul>
     <h2>Achievements</h2> 
     <a href="https://drive.google.com/file/d/15MJaVsG-j6NAkj37fDmZApPpe_VAv16z/view">Link</a>
