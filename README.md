@@ -15,7 +15,7 @@
     VIT-AP University, Amravati, Andhra Pradesh<br>
     2022 - Present</p>
      <h2>Professional Summary</h2>
-    <p>Highly motivated and detail-oriented Computer Science student with strong backend development expertise. Skilled in Python, Django, Flask, and RESTful API design. Proven ability to solve complex technical problems, with demonstrated success in national-level hackathons. Passionate about developing scalable, secure solutions and contributing to cutting-edge projects in backend engineering.</p>   
+    <p>Highly motivated and detail-oriented Computer Science student with strong backend development skills. Skilled in Python, Django, Flask, and RESTful API design. Proven ability to solve complex technical problems, with demonstrated success in national-level hackathons. Passionate about developing scalable, secure solutions and contributing to cutting-edge projects in backend engineering.</p>   
     <h2>Experience</h2>
     <h3>Subject Matter Expert (Computer Science)</h3>
     <p><strong>Chegg India Pvt Ltd | Part-Time</strong> | April 2023 – August 2024</p>
