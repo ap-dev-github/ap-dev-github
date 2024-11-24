@@ -62,8 +62,8 @@
         <li><a href="https://www.coursera.org">C for Everyone: Programming Fundamentals (Coursera)</a></li>
         <li><a href="https://www.coursera.org">Professional Certification in Java Programming</a></li>
     </ul>
-    <h2>Achievements</h2>        <a href="https://drive.google.com/file/d/15MJaVsG-j6NAkj37fDmZApPpe_VAv16z/view">Link</a>
-    <p><strong>First Runner Up – “The Return Journey” National Hackathon</strong><br>
+    <h2>Achievements</h2>      
+    <p><strong>First Runner Up – “The Return Journey” National Hackathon</strong><br>  <a href="https://drive.google.com/file/d/15MJaVsG-j6NAkj37fDmZApPpe_VAv16z/view">Link</a>
     Organized by GDSE, IIT Kanpur | May 2024</p>
     <h2>Clubs & Leadership</h2>
     <ul>
