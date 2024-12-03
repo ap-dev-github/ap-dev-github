@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ap-dev-github&show_icons=true&locale=en" alt="ap-dev-github" /></p>
     <h2>Skills</h2>
     <ul>
-        <li><strong>Programming Languages:</strong> Python, JavaScript, HTML, CSS</li>
+        <li><strong>Programming Languages:</strong> C++, Java, Python</li>
         <li><strong>Backend Frameworks:</strong> Django, Flask, Express.js</li>
         <li><strong>Frontend Technologies:</strong> React.js, Redux</li>
         <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
