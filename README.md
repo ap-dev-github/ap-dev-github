@@ -1,31 +1,32 @@
-><h1 align="center"> Ayush Pandey</h1>
-><h3 align="center">Cloud-Native | Scalable Architectures | High-Performance APIs</h3>
-><p align="center">
->    <b>Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</b>
-></p>
----
+<h1 align="center"> Ayush Pandey</h1>
+<h3 align="center">Cloud-Native | Scalable Architectures | High-Performance APIs</h3>
+<p align="center">
+    <b>Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</b>
+</p>
 
->## 👋 About Me  
->💡 Passionate about **problem-solving, scalable cloud architectures, and serverless microservices**.  
->🔥 Focused on **high-performance APIs, cloud automation, and cost-effective infrastructure solutions**.  
->⚡ Constantly learning and implementing **efficient, scalable, and production-grade systems**.
+📄 **[📜 View My Resume](https://drive.google.com/file/d/1ZubpWLDZPeN-nPJRMRrdBQGZyUpjed9o/view?usp=drive_link)**  
+
+## 👋 About Me  
+### 💡 Passionate about **problem-solving, scalable cloud architectures, and serverless microservices**.  
+### 🔥 Focused on **high-performance APIs, cloud automation, and cost-effective infrastructure solutions**.  
+### ⚡ Constantly learning and implementing **efficient, scalable, and production-grade systems**.
 
 >![](https://nirzak-streak-stats.vercel.app/?user=ap-dev-github&theme=dark&hide_border=false)<br/>
 
->## 🏆 Expertise  
->✔ **Cloud Cost Optimization** – Architecting **efficient cloud infrastructure** to **minimize expenses** while maximizing performance.  
->✔ **Cloud-Native Development** – Building and deploying **scalable, high-performance applications** on **AWS & Serverless technologies**.  
->✔ **High-Performance APIs** – Designing **low-latency, production-ready APIs** with cost-effective architectures.  
->✔ **DevOps & CI/CD** – Automating deployments, optimizing infrastructure, and ensuring seamless **continuous integration & delivery**.  
->✔ **Full-Stack Engineering** – From **frontend development** to **scalable backend architectures**.  
+## 🏆 Expertise  
+### ✔ **Cloud Cost Optimization** – Architecting **efficient cloud infrastructure** to **minimize expenses** while maximizing performance.  
+### ✔ **Cloud-Native Development** – Building and deploying **scalable, high-performance applications** on **AWS & Serverless technologies**.  
+### ✔ **High-Performance APIs** – Designing **low-latency, production-ready APIs** with cost-effective architectures.  
+### ✔ **DevOps & CI/CD** – Automating deployments, optimizing infrastructure, and ensuring seamless **continuous integration & delivery**.  
+### ✔ **Full-Stack Engineering** – From **frontend development** to **scalable backend architectures**.  
 
->## 🚀 Past Projects  
->| Project Name | Description | Live Link |
->|-------------|-------------|-----------|
->| **Atithidev Couch Surfing** | A platform enabling seamless hospitality exchange. | [Visit](https://atithidev-main-v1-0-4.onrender.com/) |
->| **SonarGoaud Home Security System** | A home security system leveraging radar technology. | [Visit](https://radar-system-j8g63tkqn-ayush-pandeys-projects-bbdce634.vercel.app/) |
->| **Atithidev DB API** | The backend API powering the Atithidev platform. | [Visit](https://kzjttnxnf3.execute-api.ap-south-1.amazonaws.com/dev/) |
->| **Sentiment Analyzer using NLTK** | A sentiment analysis tool utilizing NLP techniques. | [Visit](https://6z8qsa4i2i.execute-api.ap-south-1.amazonaws.com/dev/) |
+## 🚀 Past Projects  
+| Project Name | Description | Live Link |
+|-------------|-------------|-----------|
+| **Atithidev Couch Surfing** | A platform enabling seamless hospitality exchange. | [Visit](https://atithidev-main-v1-0-4.onrender.com/) |
+| **SonarGoaud Home Security System** | A home security system leveraging radar technology. | [Visit](https://radar-system-j8g63tkqn-ayush-pandeys-projects-bbdce634.vercel.app/) |
+| **Atithidev DB API** | The backend API powering the Atithidev platform. | [Visit](https://kzjttnxnf3.execute-api.ap-south-1.amazonaws.com/dev/) |
+| **Sentiment Analyzer using NLTK** | A sentiment analysis tool utilizing NLP techniques. | [Visit](https://6z8qsa4i2i.execute-api.ap-south-1.amazonaws.com/dev/) |
 ---
 
 ># 💻 Tech Stack:
