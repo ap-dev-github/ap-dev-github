@@ -4,7 +4,7 @@
     <b>Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</b>
 </p>
 
-📄 **[📜 View My Resume](https://drive.google.com/file/d/1cZprH6UHu9x8UcNe4XADYfy29bWdKyZU/view?usp=sharing)**  
+📄 **[📜 View My Resume](https://drive.google.com/file/d/1K1UJh6HnSnZ51dPOUZVr2vL1kCFCliq1/view?usp=sharing)**  
 
 ## 👋 About Me  
 ### 💡 Passionate about **problem-solving, scalable cloud architectures, and serverless microservices**.  
