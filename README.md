@@ -1,4 +1,4 @@
-<h1 align="center"> Ayush Pandey</h1>
+![Ayush Pandey](https://github.com/user-attachments/assets/c63b20ad-9c6d-429d-89d8-996719b4298f)
 <h3 align="center">Cloud-Native | Scalable Architectures | High-Performance APIs</h3>
 <p align="center">
     <b>Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</b>
