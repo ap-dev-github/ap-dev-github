@@ -5,8 +5,7 @@
 </p>
 
  **[📜 View My Resume](https://drive.google.com/file/d/1Vk74CR3g23kYAfol7KFgIfxKbZ4TIulp/view?usp=drive_link)**  
- 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=linkedap" target="_blank">Follow on LinkedIn</a>
+
 ## 👋 About Me  
 ### 💡 Passionate about **problem-solving, scalable cloud architectures, and serverless microservices**.  
 ### 🔥 Focused on **high-performance APIs, cloud automation, and cost-effective infrastructure solutions**.  
