@@ -165,3 +165,4 @@
 I'm open to working on high-impact projects involving complex architectures, cloud automation, and performance optimizations.
 
 📩 **Let's build something amazing together!**
+Email: ayushpandey.cs@gmail.com
