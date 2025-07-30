@@ -93,6 +93,7 @@
 <p align="center">
   <img src="images/dashboard.jpg" width="800"/>
 </p>
+
 ### Resumes manager
 <p align="center">
 <img src="images/roles.jpg" width="800"/>
