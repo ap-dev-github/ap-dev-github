@@ -90,17 +90,23 @@
 ## 🌐 Preview of versioncv.com
 
 ### Dashbaord
-<img src="images/dashboard.jpg" width="700"/>
-
+<p align="center">
+  <img src="images/dashboard.jpg" width="800"/>
+</p>
 ### Resumes manager
-<img src="images/roles.jpg" width="700"/>
+<p align="center">
+<img src="images/roles.jpg" width="800"/>
+</p>
 
 ### AI Job Description based Resume Analyzer
-<img src="images/analyzer.jpg" width="700"/>
+<p align="center">
+<img src="images/analyzer.jpg" width="800"/>
+</p>
 
 ### Resume Optimizer agent based on Analysis Report
-<img src="images/optimizer.jpg" width="700"/>
-
+<p align="center">
+<img src="images/optimizer.jpg" width="800"/>
+</p>
 
 ### 🔧 Tech Stack & Infrastructure
 - **Architecture:** Fully decoupled, serverless, multi-cloud, microservice-based
