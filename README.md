@@ -87,6 +87,21 @@
 ### 🏛️ Registered: MSME – Govt of India  
 ### 📅 Timeline: June 2024 – Present
 
+## 🌐 Preview of versioncv.com
+
+### Dashbaord
+<img src="images/dashboard.jpg" width="700"/>
+
+### Resumes manager
+<img src="images/roles.jpg" width="700"/>
+
+### AI Job Description based Resume Analyzer
+<img src="images/analyzer.jpg" width="700"/>
+
+### Resume Optimizer agent based on Analysis Report
+<img src="images/optimizer.jpg" width="700"/>
+
+
 ### 🔧 Tech Stack & Infrastructure
 - **Architecture:** Fully decoupled, serverless, multi-cloud, microservice-based
 - **Deployment:** Serverless via AWS Lambda, Vercel Edge Functions, Cloudflare Workers
