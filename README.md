@@ -85,7 +85,7 @@
 ### 🌐 Website: [www.versioncv.com](https://www.versioncv.com)
 ### 👨‍💻 Role: Founder & Solo Developer  
 ### 🏛️ Registered: MSME – Govt of India  
-### 📅 Timeline: June 2024 – Present
+### 📅 Timeline: June 2025 – Present
 
 ## 🌐 Preview of versioncv.com
 
