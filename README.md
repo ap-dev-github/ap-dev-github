@@ -89,9 +89,14 @@
 
 ## 🌐 Preview of versioncv.com (Under Development)
 
-### Dashbaord
+### Latest Landing Page
 <p align="center">
-  <img src="images/dashboard2.jpg" width="800"/>
+  <img src="images/landing.jpg" width="800"/>
+</p>
+
+### Features
+<p align="center">
+  <img src="images/features.jpg" width="800"/>
 </p>
 
 ### Resumes manager
