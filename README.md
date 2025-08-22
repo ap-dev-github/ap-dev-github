@@ -91,13 +91,19 @@
 
 ### Dashbaord
 <p align="center">
-  <img src="images/dashboard.jpg" width="800"/>
+  <img src="images/dashboard2.jpg" width="800"/>
 </p>
 
 ### Resumes manager
 <p align="center">
-<img src="images/roles.jpg" width="800"/>
+<img src="images/roles2.jpg" width="800"/>
 </p>
+
+### Instant ATS Optimizer
+<p align="center">
+<img src="images/ats-optimizer.jpg" width="800"/>
+</p>
+
 
 ### AI Job Description based Resume Analyzer
 <p align="center">
