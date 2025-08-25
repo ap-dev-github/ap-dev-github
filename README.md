@@ -4,8 +4,8 @@
 <h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IALvmvs0xjEmYYL40lQ4zqXJ1U8YFnIk/view?usp=sharing">
-    <strong>📜 View My Resume</strong>
+  <a href="https://drive.google.com/file/d/1Qb_wo5GJWMwkLwkCh-WsXZWwZTtwhdq0/view?usp=drive_link">
+    <strong>📜View Latest Resume</strong>
   </a>
 </p>
 
