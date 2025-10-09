@@ -92,7 +92,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Production Grade Projects
 
 ### 🔒 SwiftVault - Enterprise File Vault System
 <p align="center">
