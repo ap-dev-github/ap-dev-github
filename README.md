@@ -1,24 +1,29 @@
 ![Ayush Pandey](https://github.com/user-attachments/assets/c63b20ad-9c6d-429d-89d8-996719b4298f)
 
 <h2 align="center">Cloud-Native | Scalable Architectures | High-Performance APIs</h2>
+
 <h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nRxbqq2rBkVTs5oPBvM_qmwUIpfMsyMz/view?usp=drive_link">
-    <strong>📜View Latest Resume</strong>
-  </a>
+<a href="https://drive.google.com/file/d/1nRxbqq2rBkVTs5oPBvM_qmwUIpfMsyMz/view?usp=drive_link">
+<strong>📜 View Latest Resume</strong>
+</a>
 </p>
 
 ---
 
 ## 🔍 About Me
-**💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.  
-**🔥 Focused** on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.  
+
+**💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.
+
+**🔥 Focused** on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
+
 **⚡ Constantly learning** and implementing efficient, scalable, and production-grade systems.
 
 ---
 
 ## 📊 GitHub Stats
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ap-dev-github&theme=dark&hide_border=false)
 
 ---
@@ -30,6 +35,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Web & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -39,22 +45,27 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase Realtime](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ### APIs & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,99 +92,194 @@
 
 ---
 
-## 🚀 VersionCV - Resume Management and Optimization System
-### 🌐 Website: [www.versioncv.com](https://www.versioncv.com)
-### 👨‍💻 Role: Founder & Solo Developer  
-### 🏛️ Registered: MSME – Govt of India  
-### 📅 Timeline: June 2025 – Present
+## 🚀 Featured Projects
 
-## 🌐 Preview of versioncv.com (Under Development)
-
-### Latest Landing Page
+### 🔒 SwiftVault - Enterprise File Vault System
 <p align="center">
-  <img src="images/landing.jpg" width="800"/>
+<img src="images/swiftvault.png" width="800" alt="Swiftvault Landing Page"/>
 </p>
 
-### Features
+**🌐 Live:** [swiftvault](https://swiftvault.versioncv.com) | **📅 Timeline:** 8 Days (In 6 Days Ideation + Coding + Testing + Cloud Deployment + 2 Days Edge Native - Serverless Optimization)
+
+#### 🎯 The Challenge
+Built a production-grade secure file vault with intelligent deduplication, custom JWt implemetation with token generation, claim based access control, token verification, refresh token, advanced sharing, and comprehensive analytics in just **6 days** - then revolutionized its architecture in **2 more days** to achieve near-zero costs.
+
 <p align="center">
-  <img src="images/features.jpg" width="800"/>
+  <img src="images/swiftvault-user-management.png" width="400" alt="User Management"/>
+<img src="images/swiftvault-features.png" width="400" alt="Features"/>
 </p>
 
-### Resumes manager
 <p align="center">
-<img src="images/roles2.jpg" width="800"/>
+<img src="images/swiftvault-admin.png" width="400" alt="Admin Panel"/>
+<img src="images/swiftvault-file-analytics.png" width="400" alt="File Analytics"/>
 </p>
 
-### Instant ATS Optimizer
+#### ⚡ The Transformation: From $17/month to $0/month
+
+<details>
+<summary><b>📊 Architecture Evolution</b></summary>
+
+#### **Before: Monolithic Architecture** 💰 $17/month ($204/year)
 <p align="center">
-<img src="images/ats-optimizer.jpg" width="800"/>
+<img src="images/swiftvault-monolith.png" width="800" alt="Swiftvault monolith Architecture"/>
 </p>
 
+**Pain Points:** Idle costs, single point of failure, regional deployment
 
-### AI Job Description based Resume Analyzer
+#### **After: Distributed Serverless Architecture** 🎉 $0/month (Year 1)
+
 <p align="center">
-<img src="images/analyzer.jpg" width="800"/>
+<img src="images/swiftvault-serverless.png" width="800" alt="Swiftvault Serverless Architecture"/>
 </p>
 
-### Resume Optimizer agent based on Analysis Report
-<p align="center">
-<img src="images/optimizer.jpg" width="800"/>
-</p>
+**Benefits:** Zero idle costs, global distribution, pay-per-use, independent scaling
+</details>
 
-### 🔧 Tech Stack & Infrastructure
-- **Architecture:** Fully decoupled, serverless, multi-cloud, microservice-based
-- **Deployment:** Serverless via AWS Lambda, Vercel Edge Functions, Cloudflare Workers
-- **Performance:** <100ms latency, scalable to 10K+ req/sec, 99.9% uptime
-- **Security:** DDOS protection, bot/human verification, Firebase JWT auth (1ms verification)
-- **Cost Efficiency:** Runs on ₹900/year (domain only) – entire infra on zero-cost tiers
+#### 🎯 Key Achievements
 
-### 🧠 AI Resume Optimization Agent
-- Resumes extracted via Cloudflare Workers
-- Sent to Fastify AWS Lambda backend
-- Interacts with OpenAI GPT-4o using job-specific structured prompts
-- Returns ATS-optimized, section-wise structured resumes
+- **💰 Cost Optimization:** Reduced from **$204/year → $0** (Year 1), **$108/year** (Year 2+) = **47% permanent savings**
+- **⚡ Performance:** <100ms metadata, <500ms uploads with edge caching
+- **🔒 Security:** RS256 JWT, bcrypt hashing, MIME validation, SHA-256 deduplication
+- **📊 Efficiency:** 30-40% storage savings through intelligent deduplication
+- **🌍 Global:** Distributed edge architecture with <50ms response times
+- **📈 Scale:** Designed to handle 10K+ req/sec with zero-cost scaling
 
-### 🗃️ Data Layer Strategy
-- Cloudflare D1 (SQLite) as primary DB with fallback protection
-- Batch-based DB updates to prevent race conditions
-- KV Cache with real-time invalidation (>99% hit rate)
-- Cloudflare R2 for CDN-accessible, versioned resume storage
-- OTP-secured DB operations with email verification
+#### 🛠️ Tech Stack
 
-### 📈 Achievements
-- Achieved ~99% cache hit ratio
-- Scalable + Cost-Efficient infra serving globally
-- Sharable, role-based resume links
+**Backend:** Go, GraphQL, PostgreSQL, Redis, MinIO
+**Frontend:** Next.js 14, TypeScript, Tailwind CSS
+**Cloud:** AWS (t2.micro), Vercel, Cloudflare Workers/KV/R2, Neon PostgreSQL
+**DevOps:** Docker, Nginx, SSL/TLS, GitHub Actions
+
+#### ✨ Standout Features
+
+- 🧠 **Intelligent Deduplication:** SHA-256 hash-based duplicate detection
+- 🔐 **Zero-Knowledge Architecture:** Military-grade encryption
+- ⚡ **Real-time Processing:** Async uploads with live progress tracking
+- 🎯 **Advanced Search:** Multi-criteria filtering with tag support
+- 📊 **Admin Analytics:** Comprehensive system monitoring
+- 🔗 **Flexible Sharing:** Private user sharing + public link sharing
+- 🚀 **Rate Limiting:** Redis-based throttling (2 req/s user, 10 req/s IP)
+
+#### 🎓 Key Learnings
+
+✅ Monoliths are expensive for unpredictable traffic
+✅ Serverless architecture enables true pay-as-you-go economics
+✅ Edge-native is the future: low latency + zero idle costs
+✅ Free tiers are powerful when architected correctly
+
+**🔗 Links:** [Live Website](https://swiftvault.versioncv.com) 
 
 ---
 
-## 🚀 Past Projects
-| Project | Description | Live Link |
-|---------|------------|-----------|
-| **Atithidev Couch Surfing** | Hospitality exchange platform | [Visit](https://atithidev-main-v1-0-4.onrender.com/) |
-| **SonarGoaud Home Security** | Radar-based security system | [Visit](https://radar-system-j8g63tkqn-ayush-pandeys-projects-bbdce634.vercel.app/) |
-| **Atithidev DB API** | Backend for Atithidev platform | [Visit](https://kzjttnxnf3.execute-api.ap-south-1.amazonaws.com/dev/) |
-| **Sentiment Analyzer** | NLP sentiment analysis tool | [Visit](https://6z8qsa4i2i.execute-api.ap-south-1.amazonaws.com/dev/) |
+### 🎯 VersionCV - AI-Powered Resume Optimization Platform
+
+**🌐 Website:** [www.versioncv.com](https://www.versioncv.com)
+**👨‍💻 Role:** Founder & Solo Developer
+**🏛️ Registered:** MSME – Govt of India
+**📅 Timeline:** June 2024 – Present
+
+<p align="center">
+<img src="images/landing.jpg" width="800" alt="VersionCV Landing Page"/>
+</p>
+
+#### 🎯 Vision
+Transforming how professionals manage and optimize their resumes with AI-driven insights, ATS optimization, and version control.
+
+#### ✨ Core Features
+
+- 🤖 **AI Resume Optimization Agent**
+  - OpenAI GPT-4o powered analysis
+  - Job-specific structured prompts
+  - Section-wise ATS optimization
+
+- 📊 **Instant ATS Analyzer**
+  - Real-time scoring and feedback
+  - Keyword optimization suggestions
+  - Format compatibility checking
+
+- 🗂️ **Smart Resume Management**
+  - Role-based version control
+  - Shareable, CDN-accessible links
+  - Cloudflare R2 storage with versioning
+
+- 🔐 **Enterprise Security**
+  - Firebase JWT authentication (1ms verification)
+  - OTP-secured DB operations
+  - Email verification system
+
+#### 🏗️ Technical Architecture
+
+**Architecture:** Fully decoupled, serverless, multi-cloud microservices
+**Deployment:** AWS Lambda, Vercel Edge, Cloudflare Workers
+**Performance:** <100ms latency, 10K+ req/sec capability, 99.9% uptime
+**Security:** DDoS protection, bot verification, Firebase JWT auth
+
+#### 💾 Data Strategy
+
+- **Primary DB:** Cloudflare D1 (SQLite) with fallback protection
+- **Caching:** KV Cache with real-time invalidation (>99% hit rate)
+- **Storage:** Cloudflare R2 for CDN-accessible, versioned resumes
+- **Optimization:** Batch-based DB updates preventing race conditions
+
+#### 💰 Cost Efficiency
+
+Running on **₹900/year** (domain only) – entire infrastructure on zero-cost tiers!
+
+<p align="center">
+<img src="images/features.jpg" width="400" alt="Features"/>
+<img src="images/ats-optimizer.jpg" width="400" alt="ATS Optimizer"/>
+</p>
+
+<p align="center">
+<img src="images/analyzer.jpg" width="400" alt="AI Analyzer"/>
+<img src="images/optimizer.jpg" width="400" alt="Resume Optimizer"/>
+</p>
+
+---
+
+## 🚀 Other Notable Projects
+
+| Project | Description | Tech Stack | Live Link |
+|---------|-------------|------------|-----------|
+| **Atithidev Couch Surfing** | Hospitality exchange platform with real-time matching | Node.js, MongoDB, Socket.io | [Visit](https://atithidev-main-v1-0-4.onrender.com/) |
+| **SonarGuard Home Security** | Radar-based security system with real-time alerts | Python, Arduino, Flask | [Visit](https://radar-system-j8g63tkqn-ayush-pandeys-projects-bbdce634.vercel.app/) |
+| **Atithidev DB API** | Scalable REST API for hospitality platform | AWS Lambda, DynamoDB | [Visit](https://kzjttnxnf3.execute-api.ap-south-1.amazonaws.com/dev/) |
+| **Sentiment Analyzer** | NLP-based sentiment analysis microservice | Python, AWS Lambda, NLTK | [Visit](https://6z8qsa4i2i.execute-api.ap-south-1.amazonaws.com/dev/) |
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedap) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ayush-Pandey-1470) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedap)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ayush-Pandey-1470)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpandey.cs@gmail.com)
 
 ---
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=ap-dev-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 🤝 Let's Collaborate!
-I'm open to working on high-impact projects involving complex architectures, cloud automation, and performance optimizations.
 
-📩 **Let's build something amazing together!**
-Email: ayushpandey.cs@gmail.com
+I'm open to working on high-impact projects involving:
+- 🏗️ Complex distributed architectures
+- ☁️ Cloud cost optimization and automation
+- ⚡ High-performance API design
+- 🚀 Serverless and edge computing
+- 🔐 Security-first system design
+
+**Let's build something amazing together!** 🚀
+
+---
+
+<p align="center">
+<i>Building production-grade systems that scale efficiently and cost-effectively</i>
+</p>
