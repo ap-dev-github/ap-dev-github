@@ -15,7 +15,7 @@
 ## 🔍 About Me
 ### 💭 Belived that ideas are cheap — execution defines value.
 
-### 🏆 Recognized at national-level hackathons including Google DSC IIT Kanpur (2nd Place, 2024) and BalkanID 80 LPA Hiring Challenge (2025).
+### 🏆 Recognized at national-level hackathons including Google DSC IIT Kanpur (2nd Place out of 800 teams, 2024) and BalkanID 80 LPA Hiring Challenge (2025).
 
 ### 💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.
 
