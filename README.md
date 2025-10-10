@@ -1,8 +1,8 @@
 ![Ayush Pandey](https://github.com/user-attachments/assets/c63b20ad-9c6d-429d-89d8-996719b4298f)
 
-<h2 align="center">Cloud-Native | Scalable Architectures | High-Performance APIs</h2>
+<h2 align="center">Cloud-Native | Edge-Native | Scalable Architectures | High-Performance APIs</h2>
 
-<h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Automating Deployments</h3>
+<h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Security First Mindset</h3>
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1nRxbqq2rBkVTs5oPBvM_qmwUIpfMsyMz/view?usp=drive_link">
@@ -94,12 +94,12 @@
 
 ## 🚀 Featured Production Grade Projects
 
-### 🔒 SwiftVault - Enterprise File Vault System
+### 🔒 SwiftVault - Enterprise File Vault System **🌐 Live at:** [swiftvault](https://swiftvault.versioncv.com)
 <p align="center">
 <img src="images/swiftvault.png" width="800" alt="Swiftvault Landing Page"/>
 </p>
 
-**🌐 Live:** [swiftvault](https://swiftvault.versioncv.com) | **📅 Timeline:** 8 Days (In 6 Days as Solo Developer-> Ideation + Architecture + Coding + Testing + Cloud Deployment + 2 Days Edge Native - Serverless Optimization)
+**📅 Timeline:** 8 Days (In 6 Days as Solo Developer-> Ideation + Architecture + Coding + Testing + Cloud Deployment + 2 Days Edge Native - Serverless Optimization)
 
 #### 🎯 The Challenge
 Built a production-grade secure file vault with intelligent deduplication, custom JWt implemetation with token generation, claim based access control, token verification, refresh token, advanced sharing, and comprehensive analytics in just **6 days** - then revolutionized its architecture in **2 more days** to achieve near-zero costs.
@@ -166,59 +166,76 @@ Built a production-grade secure file vault with intelligent deduplication, custo
 ✅ Monoliths are expensive for unpredictable traffic
 ✅ Serverless architecture enables true pay-as-you-go economics
 ✅ Edge-native is the future: low latency + zero idle costs
-✅ Free tiers are powerful when architected correctly
-
-**🔗 Links:** [Live Website](https://swiftvault.versioncv.com) 
+✅ Free tiers are powerful when architected correctly 
 
 ---
 
-### 🎯 VersionCV - AI-Powered Resume Optimization Platform
+### 🎯 VersionCV - AI-Powered Resume Optimization Platform (Beta Launched) **🌐 Live at:** [www.versioncv.com](https://www.versioncv.com)
 
-**🌐 Website:** [www.versioncv.com](https://www.versioncv.com)
+
 **👨‍💻 Role:** Founder & Solo Developer
 **🏛️ Registered:** MSME – Govt of India
-**📅 Timeline:** June 2024 – Present
+**📅 Timeline:** June 2025 – Present
 
 <p align="center">
 <img src="images/landing.jpg" width="800" alt="VersionCV Landing Page"/>
 </p>
 
 #### 🎯 Vision
-Transforming how professionals manage and optimize their resumes with AI-driven insights, ATS optimization, and version control.
+Transforming how professionals manage and optimize their resumes with AI driven resume rewriting, ATS optimization, Jd Matching, version control, personal vaults, resume to portfolio.
 
 #### ✨ Core Features
 
 - 🤖 **AI Resume Optimization Agent**
-  - OpenAI GPT-4o powered analysis
+  - Gemini, Chatgpt, claude, mistral used in fallback manner
   - Job-specific structured prompts
   - Section-wise ATS optimization
+  - Can rewrite whole resume under 30 seconds.
+  - Preserved Links original data accuracy.
+  - Hallucination Control using algorithmic prompt.
+  - Token Optimization for cost and ratelimits.
+    
 
 - 📊 **Instant ATS Analyzer**
   - Real-time scoring and feedback
   - Keyword optimization suggestions
   - Format compatibility checking
+  - Ats parsability detection
+  - Complex layout, missing section, word density etc. detection correction.
+
+
+- 📊 **Custom VersionCV Editor (zero dependency)**
+  - React Powered  WYSIWYG Editor with ATS Scanner Integrated.
+
 
 - 🗂️ **Smart Resume Management**
   - Role-based version control
   - Shareable, CDN-accessible links
   - Cloudflare R2 storage with versioning
+  - Clone and edit.
+  - Can do resume correction even after link submission replace original at same link.
+  - Track Analytics for each of the resume file, role, vault.
 
 - 🔐 **Enterprise Security**
-  - Firebase JWT authentication (1ms verification)
-  - OTP-secured DB operations
+  - Firebase JWT authentication on each request. (1ms full claims verification)
   - Email verification system
+  - Zero Client Trust model.
+  - Main DB and buckets accessible only by internal api( no dns ) accessible through rpc calls only.
+  - API interlocking using different secrets for each and are present only on the cloudflare secret manager.
+  - Multiple layer of DDOS mitigation stretegy, Cloudflare, internal Rate Limiter with 4 fallbacks.
+    
 
 #### 🏗️ Technical Architecture
 
-**Architecture:** Fully decoupled, serverless, multi-cloud microservices
-**Deployment:** AWS Lambda, Vercel Edge, Cloudflare Workers
+**Architecture:** Fully decoupled, edge-native serverless, multi-cloud microservices
+**Deployment:** Google Cloud Run, Vercel Edge, Cloudflare Workers, D1/R2/Queue/KV Cache/Durable Objects/Cloudflare CDN
 **Performance:** <100ms latency, 10K+ req/sec capability, 99.9% uptime
-**Security:** DDoS protection, bot verification, Firebase JWT auth
+**Security:** DDoS protection, bot verification, Firebase JWT auth, API interlocking using internal secrets, Ratelimiter with 4 layered fallback mechanism
 
 #### 💾 Data Strategy
 
 - **Primary DB:** Cloudflare D1 (SQLite) with fallback protection
-- **Caching:** KV Cache with real-time invalidation (>99% hit rate)
+- **Caching:** KV Cache Cloudflare CDN with real-time invalidation (>99% hit rate)
 - **Storage:** Cloudflare R2 for CDN-accessible, versioned resumes
 - **Optimization:** Batch-based DB updates preventing race conditions
 
@@ -281,5 +298,5 @@ I'm open to working on high-impact projects involving:
 ---
 
 <p align="center">
-<i>Building production-grade systems that scale efficiently and cost-effectively</i>
+<i>Building production-grade secure systems that scale efficiently and cost-effectively</i>
 </p>
