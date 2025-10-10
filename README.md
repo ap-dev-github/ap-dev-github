@@ -13,7 +13,7 @@
 ---
 
 ## 🔍 About Me
-### 💭 Belived that ideas are cheap — execution defines value.
+### 💭 Execution is the currency that converts ideas into value.
 
 ### 🏆 Led a 3-member team to 2nd Place (out of 800) at Google DSC IIT Kanpur’s ‘The Return Journey’ Hackathon (2024).
 
