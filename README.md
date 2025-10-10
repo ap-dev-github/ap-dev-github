@@ -159,7 +159,7 @@ Built a production-grade secure file vault with intelligent deduplication, custo
 #### ✨ Standout Features
 
 - 🧠 **Intelligent Deduplication:** SHA-256 hash-based duplicate detection
-- 🔐 **Zero-Knowledge Architecture:** Military-grade encryption
+- 🔐 **Zero-Client Architecture:** All client side sent data are cross-verified before use.
 - ⚡ **Real-time Processing:** Async uploads with live progress tracking
 - 🎯 **Advanced Search:** Multi-criteria filtering with tag support
 - 📊 **Admin Analytics:** Comprehensive system monitoring
