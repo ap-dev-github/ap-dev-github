@@ -99,7 +99,7 @@
 <img src="images/swiftvault.png" width="800" alt="Swiftvault Landing Page"/>
 </p>
 
-**📅 Timeline:** 8 Days (In 6 Days as Solo Developer-> Ideation + Architecture + Coding + Testing + Cloud Deployment + 2 Days Edge Native - Serverless Optimization)
+**📅 Timeline:** 8 Days (In 6 Days as Solo Developer for BalkanId Hiring Challenge -> Ideation + Architecture + Coding + Testing + Cloud Deployment + 2 Days Edge Native - Serverless Optimization)
 
 #### 🎯 The Challenge
 Built a production-grade secure file vault with intelligent deduplication, custom JWt implemetation with token generation, claim based access control, token verification, refresh token, advanced sharing, and comprehensive analytics in just **6 days** - then revolutionized its architecture in **2 more days** to achieve near-zero costs.
