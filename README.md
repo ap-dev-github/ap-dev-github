@@ -13,12 +13,15 @@
 ---
 
 ## 🔍 About Me
+### 💭 Belived that ideas are cheap — execution defines value.
 
-**💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.
+### 🏆 Recognized at national-level hackathons including Google DSC IIT Kanpur (2nd Place, 2024) and BalkanID 80 LPA Hiring Challenge (2025).
 
-**🔥 Focused** on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
+### 💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.
 
-**⚡ Constantly learning** and implementing efficient, scalable, and production-grade systems.
+### 🔥 Focused** on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
+
+### ⚡ Constantly learning** and implementing efficient, scalable, and production-grade systems.
 
 ---
 
@@ -104,7 +107,7 @@
 (In 6 Days as Solo Developer -> Ideation + Architecture + Coding + Testing + Cloud Deployment + Extras -> 2 Days Edge Native - Serverless Optimization)
 
 #### 🎯 The Challenge
-Built a production-grade secure file vault with intelligent deduplication, custom JWt implemetation with token generation, claim based access control, token verification, refresh token, advanced sharing, and comprehensive analytics in just **6 days** - then revolutionized its architecture in **2 more days** to achieve near-zero costs.
+Built a production-grade secure file vault with intelligent deduplication, custom JWt implementation with token generation, claim-based access control, token verification, refresh token, advanced sharing, and comprehensive analytics in just **6 days** - then revolutionized its architecture in **2 more days** to achieve near-zero costs.
 
 <p align="center">
   <img src="images/swiftvault-user-management.png" width="400" alt="User Management"/>
@@ -184,7 +187,7 @@ Built a production-grade secure file vault with intelligent deduplication, custo
 </p>
 
 #### 🎯 Vision
-Transforming how professionals manage and optimize their resumes with AI driven resume rewriting, ATS optimization, Jd Matching, version control, personal vaults, resume to portfolio.
+Transforming how professionals manage and optimize their resumes with AI driven resume rewriting, ATS optimization, JD Matching, version control, personal vaults, resume to portfolio.
 
 #### ✨ Core Features
 
@@ -202,7 +205,7 @@ Transforming how professionals manage and optimize their resumes with AI driven 
   - Real-time scoring and feedback
   - Keyword optimization suggestions
   - Format compatibility checking
-  - Ats parsability detection
+  - ATS parsability detection
   - Complex layout, missing section, word density etc. detection correction.
 
 
@@ -220,11 +223,11 @@ Transforming how professionals manage and optimize their resumes with AI driven 
 
 - 🔐 **Enterprise Security**
   - Firebase JWT authentication on each request. (1ms full claims verification)
-  - Email verification system
+  - Email verification.
   - Zero Client Trust model.
   - Main DB and buckets accessible only by internal api( no dns ) accessible through rpc calls only.
   - API interlocking using different secrets for each and are present only on the cloudflare secret manager.
-  - Multiple layer of DDOS mitigation stretegy, Cloudflare, internal Rate Limiter with 4 fallbacks.
+  - Multiple layer of DDOS mitigation strategy, Cloudflare, internal Rate Limiter with 4 fallbacks.
     
 
 #### 🏗️ Technical Architecture
