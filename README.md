@@ -5,7 +5,7 @@
 <h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Security First Mindset</h3>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1nRxbqq2rBkVTs5oPBvM_qmwUIpfMsyMz/view?usp=drive_link">
+<a href="https://www.versioncv.com/ayush/full-stack-engineer/latest">
 <strong>📜 View Latest Resume</strong>
 </a>
 </p>
@@ -103,7 +103,6 @@
 </p>
 
 **📅 Timeline:** 8 Days 
-🏁 Built for BalkanID 80 LPA Full-Time Hiring Challenge (September 2025)
 (In 6 Days as Solo Developer -> Ideation + Architecture + Coding + Testing + Cloud Deployment + Extras -> 2 Days Edge Native - Serverless Optimization)
 
 #### 🎯 The Challenge
