@@ -5,8 +5,8 @@
 <h3 align="center">Optimizing Cloud Costs | Scaling Systems Efficiently | Security First Mindset</h3>
 
 <p align="center">
-<a href="https://www.versioncv.com/ayush/full-stack-engineer/latest">
-<strong>📜 View Latest Resume</strong>
+<a href="https://ayushpandey.me">
+<strong> View Portfolio Website</strong>
 </a>
 </p>
 
