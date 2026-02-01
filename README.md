@@ -15,7 +15,7 @@
 ## 🔍 About Me
 ### 💭 Execution is the currency that converts ideas into value.
 
-### 🏆 Led a 3-member team to 2nd Place (out of 800) at Google DSC IIT Kanpur’s ‘The Return Journey’ Hackathon (2024).
+### 🏆 Led a 3-member team to 2nd Place (out of 800) at Google DSC IIT Kanpur’s ‘The Return Journey’ Hackathon.
 
 ### 🚀 Shipped versionCV end-to-end as a solo developer, owning ideation, architecture, implementation, testing, deployment, and post-release iteration across the full SDLC.
 
@@ -314,7 +314,3 @@ I'm open to working on high-impact projects involving:
 **Let's build something amazing together!** 🚀
 
 ---
-
-<p align="center">
-<i>Building production-grade secure systems that scale efficiently and cost-effectively</i>
-</p>
