@@ -17,7 +17,7 @@
 
 ### 🏆 Led a 3-member team to 2nd Place (out of 800) at Google DSC IIT Kanpur’s ‘The Return Journey’ Hackathon (2024).
 
-### 💡 Passionate about problem-solving, scalable cloud architectures, and serverless microservices.
+### 🚀 Shipped versionCV end-to-end as a solo developer, owning ideation, architecture, implementation, testing, deployment, and post-release iteration across the full SDLC.
 
 ### 🔥 Focused on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
 
