@@ -30,7 +30,7 @@
 
 ## 🌍 Open-Source Contributions
 
-### **Hibe AI Agent Framework**
+### **Hive AI Agent Framework**
 Production-grade open-source AI agent framework maintained by **AdenHQ**  
 ![Y Combinator](https://img.shields.io/badge/Y%20Combinator-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)
 
