@@ -24,10 +24,6 @@
 ### ⚡ Constantly learning and implementing efficient, scalable, and production-grade systems.
 ---
 
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=ap-dev-github&theme=dark&hide_border=false)
-
 ## 🌍 Open-Source Contributions
 
 ### **Hive AI Agent Framework**
@@ -45,6 +41,9 @@ Production-grade open-source AI agent framework maintained by **AdenHQ**
 > Focused on reliability, cross-platform stability, and production-grade engineering standards within open-source systems.
 
 
+## 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=ap-dev-github&theme=dark&hide_border=false)
 
 ## 💻 Tech Stack
 
