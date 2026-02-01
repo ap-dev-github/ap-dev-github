@@ -17,19 +17,34 @@
 
 ### 🏆 Led a 3-member team to 2nd Place (out of 800) at Google DSC IIT Kanpur’s ‘The Return Journey’ Hackathon (2024).
 
-### 💡 Passionate** about problem-solving, scalable cloud architectures, and serverless microservices.
+### 💡 Passionate about problem-solving, scalable cloud architectures, and serverless microservices.
 
-### 🔥 Focused** on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
+### 🔥 Focused on high-performance APIs, cloud automation, and cost-effective infrastructure solutions.
 
-### ⚡ Constantly learning** and implementing efficient, scalable, and production-grade systems.
-
+### ⚡ Constantly learning and implementing efficient, scalable, and production-grade systems.
 ---
 
 ## 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ap-dev-github&theme=dark&hide_border=false)
 
----
+## 🌍 Open-Source Contributions
+
+### **Hibe AI Agent Framework**
+Production-grade open-source AI agent framework maintained by **AdenHQ**  
+![Y Combinator](https://img.shields.io/badge/Y%20Combinator-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)
+
+• Fixed Windows-specific UnicodeEncodeError by enforcing explicit UTF-8 encoding, restoring cross-platform test compatibility.  
+• Resolved merge conflicts during parallel development, improving code quality and stability.  
+• Debugged CI failures caused by incorrect Ruff and Pytest execution order after DX refactors.  
+• Collaborated with the CTO and core engineers to restore broken GitHub workflows post DX overhaul.
+
+**Pull Request**
+- 🔗 https://github.com/adenhq/hive/pull/641
+
+> Focused on reliability, cross-platform stability, and production-grade engineering standards within open-source systems.
+
+
 
 ## 💻 Tech Stack
 
