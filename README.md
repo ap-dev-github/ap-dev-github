@@ -47,8 +47,8 @@
 <sup>Production framework by **AdenHQ** • ![Y Combinator](https://img.shields.io/badge/YC-Backed-FF6600?style=flat-square&logo=ycombinator)</sup>
 ```diff
 + Fixed critical Windows UnicodeEncodeError → Restored cross-platform stability
-+ Debugged broken CI/CD pipeline → Unblocked core team deployment
-+ Resolved merge conflicts → Improved codebase quality
++ Investigated & debugged CI/CD failures post-DX overhaul → Filed issue, submitted fix PR
++ Resolved merge conflicts during parallel development → Improved codebase quality
 ```
 
 **Impact:** Enhanced reliability for production AI agents  
