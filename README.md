@@ -20,21 +20,27 @@
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🏆_2nd_Place-Google_DSC_IIT_KANPUR_Hackathon-4285F4?style=flat-square" alt="Achievement"/>
-<br/><sub>Led team to 2nd position out of 800 teams</sub>
+<td align="center" style="padding: 20px;">
+<img src="https://img.shields.io/badge/🏆_2nd_Place-Google_DSC_IIT_KANPUR_Hackathon-4285F4?style=for-the-badge" alt="Achievement"/>
+<br/><br/>
+<b>Led team to 2nd position<br/>out of 800 teams</b>
 </td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🎯_Solo_Founder-versionCV-00D9FF?style=flat-square" alt="Founder"/>
-<br/><sub>Full SDLC ownership: Idea → Production in 8 months</sub>
+<td align="center" style="padding: 20px;">
+<img src="https://img.shields.io/badge/🎯_Solo_Founder-versionCV-00D9FF?style=for-the-badge" alt="Founder"/>
+<br/><br/>
+<b>Full SDLC ownership<br/>Idea → Production in 8 months</b>
 </td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/💰_Cost_Optimization-versionCV-4CAF50?style=flat-square" alt="Cost"/>
-<br/><sub>$250/month → ~$0 idle • ~100% savings</sub>
+</tr>
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="https://img.shields.io/badge/💰_Cost_Optimization-versionCV-4CAF50?style=for-the-badge" alt="Cost"/>
+<br/><br/>
+<b>$250/month → ~$0 idle<br/>~100% savings</b>
 </td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/⚡_Performance-4K+_req/sec-FF6B6B?style=flat-square" alt="Performance"/>
-<br/><sub>High-performance, low latency api</sub>
+<td align="center" style="padding: 20px;">
+<img src="https://img.shields.io/badge/⚡_Performance-4K+_req/sec-FF6B6B?style=for-the-badge" alt="Performance"/>
+<br/><br/>
+<b>High-performance<br/>low latency api</b>
 </td>
 </tr>
 </table>
