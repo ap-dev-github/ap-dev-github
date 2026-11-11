@@ -110,7 +110,7 @@ Not an LLM wrapper: **rules find the problems → the AI fixes only those → th
 | Project | Stack | Notes |
 |---|---|---|
 | [SwiftVault](https://github.com/ap-dev-github/swiftvault-smart-storage) | Go · GraphQL · PostgreSQL · Redis → Cloudflare Workers, KV, R2 | `$204/yr → $0` (year 1), 47% permanent |
-| [Atithidev DB API](https://kzjttnxnf3.execute-api.ap-south-1.amazonaws.com/dev/) | AWS Lambda · DynamoDB | Serverless REST API |
+| [Atithidev DB API](https://github.com/ap-dev-github/atithidev-db-api) | AWS Lambda · DynamoDB | Serverless REST API |
 | [Sentiment Analyzer](https://github.com/ap-dev-github/sentiment-analyzer-api) | Python · AWS Lambda · NLTK | NLP microservice |
 
 ---
